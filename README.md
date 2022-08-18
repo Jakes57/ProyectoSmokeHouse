@@ -138,6 +138,6 @@ Merge
 2.	En caso de haber la necesidad de resolver ciertas dudas con el pull request, será contactado por ello
 3.	Una vez se determine si se hará merge con su Branch o no, será informado de ello
 
-RoadMap
-
+Roadmap
+https://github.com/Jakes57/ProyectoSmokeHouse/wiki/Roadmap
 
