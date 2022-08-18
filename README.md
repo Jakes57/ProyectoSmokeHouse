@@ -13,6 +13,15 @@ Un programa que pudiera crear presupuestos exactos que tomen en cuenta los ingre
 Arquitectura
 https://github.com/Jakes57/ProyectoSmokeHouse/wiki/Arquitectura 
 
+TABLA DE CONTENIDOS 
+
+Requerimientos - https://github.com/Jakes57/ProyectoSmokeHouse/wiki/Configuraci%C3%B3n 
+Instalación - https://github.com/Jakes57/ProyectoSmokeHouse/wiki/Instalaci%C3%B3n 
+Configuración - https://github.com/Jakes57/ProyectoSmokeHouse/wiki/Configuraci%C3%B3n 
+Uso - https://github.com/Jakes57/ProyectoSmokeHouse/wiki/Uso 
+Contribución - https://github.com/Jakes57/ProyectoSmokeHouse/wiki/Contribuci%C3%B3n 
+
+
 a.	Servidores de aplicación, web, bases de datos, etc.
 Computadora con potencia básica, ambiente de desarrollo actualizado, Java development kit instalado. 
 
