@@ -11,7 +11,7 @@ Solución
 Un programa que pudiera crear presupuestos exactos que tomen en cuenta los ingredientes involucrados en la preparación de las proteínas principales del restaurante, y que tenga la capacidad de almacenar los datos por tipo de transacción y semana laboral.
  
 Arquitectura
-
+https://github.com/Jakes57/ProyectoSmokeHouse/wiki/Arquitectura 
 
 a.	Servidores de aplicación, web, bases de datos, etc.
 Computadora con potencia básica, ambiente de desarrollo actualizado, Java development kit instalado. 
